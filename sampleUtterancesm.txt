@@ -1,0 +1,15 @@
+HelloIntent toss the coin
+HelloIntent toss it
+HelloIntent toss
+TossIntent toss again
+TossIntent toss one more time
+TossIntent toss the coin again
+TossIntent toss it
+TossIntent toss
+TossIntent Yes
+TossStopIntent No
+TossStopIntent I don't want to toss
+TossStopIntent end it
+NextTossIntent again
+NextTossIntent once more
+NextTossIntent yes

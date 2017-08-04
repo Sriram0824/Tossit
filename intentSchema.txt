@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "HelloIntent"
+    },
+    {
+      "intent": "TossIntent"
+    },
+    {
+      "intent": "TossStopIntent"
+    },
+    {
+      "intent": "NextTossIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
