@@ -1,6 +1,6 @@
 About:
 
-It is an individual project developed for the Amazon dot and echo devices as an Alexa skill. In July Amazon started a contest for Alexa skill developers that first 5000 developers would receive some kind of goodies like dot devices. I thought it was a good opportunity to learn something new so, I started developing this skill.  This is a trivia game where users can ask the device to toss a coin and get the result either as tails or heads
+It is an individual project developed for the Amazon dot and echo devices as an Alexa skill. This is a trivia game where users can ask the device to toss a coin and get the result either as tails or heads
 
 Development process:
 
